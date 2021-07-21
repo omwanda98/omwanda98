@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @omwanda98
 - 👀 I’m interested in REACT JS, WEB HOSTING, NODE JS JS
-- 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on MERN PROJECTS
 - 📫 How to reach me: omwandajeyy@gmail.com
 
